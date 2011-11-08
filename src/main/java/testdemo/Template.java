@@ -11,7 +11,7 @@ import java.util.Map;
  *
  */
 public class Template {
-
+	//Test
     String template;
     Map<String, String> variables;
     
